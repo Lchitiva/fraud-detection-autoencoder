@@ -85,7 +85,7 @@ The notebook performs a thorough EDA before modeling:
 
 ### Option A — Google Colab (recommended)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/fraud-detection-autoencoder/blob/main/autoencoder_proyecto.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lchitiva/fraud-detection-autoencoder/blob/main/autoencoder_proyecto.ipynb)
 
 The notebook auto-generates a synthetic dataset with the same statistical properties as the Kaggle Credit Card Fraud dataset if you don't have Kaggle credentials configured.
 
